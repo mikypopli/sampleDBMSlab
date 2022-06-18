@@ -1,0 +1,29 @@
+/* create database if already exists */
+/* drop database if exits Book_ DBMS*/
+/* drop table if Exists Book_ details;
+/* create table customer details (Book Id int, Book name varchar,category varchar,total quantity int);
+/* insert into Customer values (1, "Love of God","A","5");
+/* insert into Customer values (2, "Lord Krishna","B","15");
+/* insert into Customer values (3, "Hindu Religious","C","18");
+/* insert into Customer values (4, "Sikhism","D","25");
+/* select * for customer*/
+
+
+/* create database if already exists */
+/* drop database if exits customer_ DBMS*/
+/* drop table if Exists customer_ details;
+/* create table customer details ( Id int, customer name varchar,Gender varchar,issued Date,Return Date,Book-Id);
+/* insert into Customer values (1, "Radha",'F',"19-04-2021",27-04-2021);
+/* insert into Customer values (2, "Sam",'M',"20-04-2021",29-04-2021);
+/* insert into Customer values (3, "Gurdeep",'M',"02-04-2021",28-04-2021);
+/* insert into Customer values (4, "Sunita",'F',"12-04-2021",22-04-2021);
+/* select * for customer*/
+
+/*select Gender,count (Gender) From Customer ,Book Where Book Name "Love of God";
+/* select Book Name , total quantity from book
+/* update Book set total Quantity-1;
+/* select Customer Name as books Borrowed from customer order by customer name asc;
+/* select customer name, gender form customer table name like "A%";
+/* select customer id,customer name, Gender,issued date from customer table where issued date 10-10-2021;
+
+ 
